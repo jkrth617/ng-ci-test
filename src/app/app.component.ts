@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-    <h1> Angular CI Example! this is the 3 deploy</h1>
+    <h1> Angular CI Example! this is the 4 deploy</h1>
     <nav>
       <a routerLink="/red">RED!!!!!</a>
       <a routerLink="/blue">BLUE?????</a>
